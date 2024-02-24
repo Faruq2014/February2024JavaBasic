@@ -25,3 +25,6 @@ how to build a maven project?
     <maven.compiler.source>17</maven.compiler.source>
    </properties>
    
+   why do we need maven project?
+     
+   
