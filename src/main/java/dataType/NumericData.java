@@ -2,6 +2,13 @@ package dataType;
 
 public class NumericData {
 
+	
+
+	public NumericData() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
 	public static void main(String[] args) {
 		/*
 		 * go to shopping with 20 dollar
