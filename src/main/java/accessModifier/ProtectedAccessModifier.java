@@ -5,6 +5,7 @@ public class ProtectedAccessModifier {
 	 * same package=yes
 	 * different package== yes-->is-a-relationship
 	 *                          -->inheritance
+	 *                          -->(with static specifier)
 	 * 
 	 */
 

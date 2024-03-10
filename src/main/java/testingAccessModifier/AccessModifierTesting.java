@@ -12,7 +12,7 @@ public class AccessModifierTesting extends ProtectedAccessModifier{
 		//default access modifier is 
 		//only allow in the same package
 		
-		//ProtectedAccessModifier proAccess= new ProtectedAccessModifier();
+		ProtectedAccessModifier proAccess= new ProtectedAccessModifier();
 		studentExchange();
 		
 		PublicAccessModifier pub= new PublicAccessModifier();
